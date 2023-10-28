@@ -1,6 +1,6 @@
-.catalogCategoryConteiner{
-    display:flex;
-    flex-direction: column;
-    align-items:start;
-    gap: 15px;
+.catalogCategoryConteiner {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 15px;
 }

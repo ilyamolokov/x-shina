@@ -1,11 +1,11 @@
 .baseButton {
-    background:transparent;
-    border:none;
-    font-size:inherit;
-    color:blue;
-    padding:0;
+  background: transparent;
+  border: none;
+  font-size: inherit;
+  color: blue;
+  padding: 0;
 }
 .baseButton:hover {
-    cursor:pointer;
-    text-decoration:line;
+  cursor: pointer;
+  text-decoration: line;
 }

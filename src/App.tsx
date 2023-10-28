@@ -1,9 +1,7 @@
-import { StaticRouter } from './Router';
+import { StaticRouter } from './Router'
 
 const App = () => {
-  return (
-    <StaticRouter />
-  )
+  return <StaticRouter />
 }
 
 export default App
